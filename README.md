@@ -23,4 +23,10 @@ Workflow
 Below is Demo of Jerry Takes The Virat Kohli's Related Information From Websites and Generated a very Concise Output
 
 
-![Jerry_demo](https://github.com/darshan220902/Jerry-The-Research-Bot/assets/109534955/abf1b3ee-451e-4f4b-906e-305aefc0d0a3)
+
+
+https://github.com/darshan220902/Jerry-The-Research-Bot/assets/109534955/79030e38-120b-4368-ba63-59ab3fcc2934
+
+
+
+
